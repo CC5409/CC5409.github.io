@@ -9,7 +9,7 @@ layout: page
 ## Presentación
 El Hito 1 es la primera presentación del proyecto grupal del curso. Para este hito lo que se espera es:
 
--Explicarnos en detalle el concepto de su juego, desarrollando la idea y el tipo de juego que es. Como aspectos secundarios, pueden agregar la
+- Explicarnos en detalle el concepto de su juego, desarrollando la idea y el tipo de juego que es. Como aspectos secundarios, pueden agregar la
 historia que tengan pensada, la paleta de colores, inspiración, etc. Lo
 que consideren necesario para que entendamos el concepto que tienen
 en mente.
