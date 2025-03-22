@@ -11,7 +11,7 @@ layout: page
 
 Para este hito lo que se espera que aborden es lo siguiente:
 
-Pulido del juego. Ahora sí les vamos a pedir que tengan todos los assets
+- Pulido del juego. Ahora sí les vamos a pedir que tengan todos los assets
 finales del juego, que la historia esté implementada, que haya un menú
 de pausa, de inicio, que el jugador haga lo que se supone que debe
 hacer, que haya un tutorial o pantalla de how to play, un lobby, etc.
