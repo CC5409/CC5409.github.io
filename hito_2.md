@@ -8,7 +8,7 @@ layout: page
 
 ## Presentación
 
-Para este hito lo que se espera es: 
+Para este hito lo que se espera que aborden es lo siguiente: 
 - Mínimo tener el gameloop principal implementado. Da lo mismo si son
 dos cajas con el logo de godot, mientras podamos ver implementadas
 las mecánicas principales y el juego cumpla con lo que nos prometieron
