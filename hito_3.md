@@ -9,7 +9,9 @@ layout: page
 
 ## Presentación
 
-Para este hito lo que se espera que aborden es lo siguiente:
+El Hito 3 consiste en una presentación en la que deben explicar y mostrar su juego por completo. Es necesario que expliquen toda la idea de su juego, pues el público contendrá gente que nunca ha visto su juego. NO ES PRESENTACIÓN DE AVANCE.
+
+Al ser la presentación final, su juego debe estar terminado. Se espera que aborden lo siguiente:
 
 - Pulido del juego. Ahora sí les vamos a pedir que tengan todos los assets
 finales del juego, que la historia esté implementada, que haya un menú
