@@ -8,14 +8,8 @@ layout: page
 
 ## Presentación
 Para este hito lo que se espera es que logren abordar lo siguiente:
-- Explicarnos en detalle el concepto de su juego, desarrollando la idea y el tipo de juego que es. Como aspectos secundarios, pueden agregar la
-historia que tengan pensada, la paleta de colores, inspiración, etc. Lo
-que consideren necesario para que entendamos el concepto que tienen
-en mente.
-- Demo del juego. No esperamos que tengan un juego 100% funcional con
-todos los sprites listos, ni nada por el estilo. Con unas cajas que se
-muevan y el juego se sincroniza en al menos dos computadores
-distintos nos basta. Claro que si tienen más, mejor
+- Explicarnos en detalle el concepto de su juego, desarrollando la idea y el tipo de juego que es. Como aspectos secundarios, pueden agregar la historia que tengan pensada, la paleta de colores, inspiración, etc. Lo que consideren necesario para que entendamos el concepto que tienen en mente.
+- Demo del juego. No esperamos que tengan un juego 100% funcional con todos los modelos listos, ni nada por el estilo. Con unas cajas que se muevan, que el juego se sincronice en al menos dos computadores y que la demo por si sola permita que se entienda de va el juego nos basta. Pueden poner billboards de las cosas aún no implementadas a modo explicativo.
 
 ## Entrega
 
